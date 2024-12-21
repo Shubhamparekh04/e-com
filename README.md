@@ -1,7 +1,3 @@
-Here's the updated documentation for the Ecom Web Application including the details about `script.js`:
-
----
-
 # Ecom Web Application
 
 ## Overview
